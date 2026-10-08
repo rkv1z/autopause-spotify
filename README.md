@@ -32,7 +32,7 @@ received a media key press.
 
 ```
 pip install -r requirements.txt
-python your_script_name.py
+python autospoti_ascend.py
 ```
 
 ## Run automatically at login
